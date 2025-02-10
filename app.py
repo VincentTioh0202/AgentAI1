@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 import re
-from google import genai  # Correct import
+from google import genai  
 
 # Initialize Gemini API (replace with your actual API key in st.secrets)
 
